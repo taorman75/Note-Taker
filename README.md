@@ -1,4 +1,6 @@
-# Note-Taker (https://github.com/taorman75/Note-Taker)
+# Note-Taker 
+(Deployed App: https://secure-lake-18928.herokuapp.com)
+(https://github.com/taorman75/Note-Taker)
 
 ## Description
 
