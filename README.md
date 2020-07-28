@@ -10,11 +10,11 @@ This app requires installation of express for node.js, as well as uuid v1 (https
 
 When the app opens, the index page displays as below. The user will click "Get Started" to open the notes workspace.
 
-![Note Taker index screen shot](https://github.com/taorman75/Note-Taker/blob/master/Develop/NoteTakerIndex.jpg)
+![Note Taker index screen shot](https://github.com/taorman75/Note-Taker/blob/master/NoteTakerIndex.jpg)
 
 To begin, the user will either create a note in the workspace (adding title and text) or open a note from the left panel of the page. Clicking on the pencil in the upper right hand corner will automatically clear the main workspace for a new note.
 
-![Note workspace screen shot](https://github.com/taorman75/Note-Taker/blob/master/Develop/NoteWorkspace.jpg)
+![Note workspace screen shot](https://github.com/taorman75/Note-Taker/blob/master/NoteWorkspace.jpg)
 
 ## Questions
 
