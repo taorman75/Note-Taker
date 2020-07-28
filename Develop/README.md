@@ -1,7 +1,13 @@
-# Note-Taker
+# Note-Taker (https://github.com/taorman75/Note-Taker)
 
 ## Description
 
+This application is designed for the user to be able to write, recall, and delete notes, using a simple interface powered by Express.
+
 ## Usage
 
+This app requires installation of express for node.js, as well as uuid v1 (https://www.npmjs.com/package/uuidv1).
+
 ## Questions
+
+For questions, contact me at *tana.owens@gmail.com* or visit my GitHub page at https://github.com/taorman75.
