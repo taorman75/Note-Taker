@@ -12,10 +12,6 @@ When the app opens, the index page displays as below. The user will click "Get S
 
 ![Note Taker index screen shot](https://github.com/taorman75/Note-Taker/blob/master/Develop/NoteTakerIndex.jpg)
 
-To begin, the user will either create a note in the workspace (adding title and text) or open a note from the left panel of the page. Clicking on the pencil in the upper right hand corner will automatically clear the main workspace for a new note.
-
-![Note workspace screen shot](https://github.com/taorman75/Note-Taker/blob/master/Develop/NoteWorkspace.jpg)
-
 ## Questions
 
 For questions, contact me at *tana.owens@gmail.com* or visit my GitHub page at https://github.com/taorman75.
