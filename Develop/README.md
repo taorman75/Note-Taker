@@ -10,7 +10,7 @@ This app requires installation of express for node.js, as well as uuid v1 (https
 
 When the app opens, the index page displays as below. The user will click "Get Started" to open the notes workspace.
 
-![Note Taker index screen shot](https://github.com/taorman75/Note-Taker/blob/master/Develop/public/assets/NoteTakerIndex.jpg)
+![Note Taker index screen shot](https://github.com/taorman75/Note-Taker/Develop/blob/master/NoteTakerIndex.jpg)
 
 ## Questions
 
